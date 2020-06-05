@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "332342707265",
+    "firebase_url": "https://air-quality-prediction-bdbeb.firebaseio.com",
+    "project_id": "air-quality-prediction-bdbeb",
+    "storage_bucket": "air-quality-prediction-bdbeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332342707265:android:0e271ebdc4f9395d15f2c0",
+        "android_client_info": {
+          "package_name": "co.sahil.air_quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332342707265-jcgv9js7gov5bqpdkelun2d30u3hq1u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzeIEFq9bV-VJTaoO3pbrUoiFeaNNb28k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332342707265-jcgv9js7gov5bqpdkelun2d30u3hq1u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332342707265:android:79df910eb93383ea15f2c0",
+        "android_client_info": {
+          "package_name": "com.sahil.airqualityprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332342707265-jcgv9js7gov5bqpdkelun2d30u3hq1u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzeIEFq9bV-VJTaoO3pbrUoiFeaNNb28k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332342707265-jcgv9js7gov5bqpdkelun2d30u3hq1u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
